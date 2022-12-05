@@ -1,0 +1,33 @@
+.water {
+background-image: url("../img/villa.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.chairs {
+  background-image: url("../img/cho.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.art {
+  background-image: url("../img/AAH.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  color: w
+}
+
+.arts {
+  color: black
+}
+
+.display-5{
+  color:white
+}
+
+.col-md-8 {
+  color: white
+}
